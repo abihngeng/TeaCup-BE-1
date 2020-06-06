@@ -5,7 +5,7 @@ import java.net.URL
 
 node {
 	stage('Git Checkout'){
-	git 'https://github.com/obyerere/TeaCup-BE.git'
+	git 'https://github.com/abihngeng/TeaCup-BE-1.git'
 	}
 	
 	stage('compile'){
